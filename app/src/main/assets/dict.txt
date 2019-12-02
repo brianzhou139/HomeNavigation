@@ -1,0 +1,8 @@
+bed
+chair
+door
+person
+sofa
+table
+television
+wall
