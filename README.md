@@ -1,4 +1,4 @@
-# What the  idea is.
+# Home navigation
 
 A real-time home mapping app for blind people.
 
